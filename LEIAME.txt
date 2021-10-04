@@ -1,0 +1,27 @@
+programa
+
+https://github.com/alexnoal/CAMERA-TERMIC
+
+ACESSE
+
+https://flow.m5stack.com/v145/
+
+MUDE PARA VERCAO 1.4.5 DO uI FLOW
+
+CARREGUE O ARQUIVO
+
+210903_camera_thermica.m5f
+
+suporte - estrutura
+
+
+
+
+
+
+PARA MAIS PROJETOS
+
+https://www.youtube.com/channel/UCR0CqmupdAwsNg1AMuT3bbQ
+
+https://www.instagram.com/manual_mecatronico/
+
